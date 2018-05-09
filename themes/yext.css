@@ -91,6 +91,11 @@ address {
   font-style: normal;
   line-height: inherit; }
 
+
+event-details-map {
+  padding-top: 40px; 
+}
+
 ol,
 ul,
 dl {
